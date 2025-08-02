@@ -14,3 +14,4 @@ Este projeto usa aprendizado de máquina com Transfer Learning para classificar 
 1. Instale os requisitos:
    ```bash
    pip install -r requirements.txt
+   coloque o zip do link https://www.microsoft.com/en-us/download/details.aspx?id=54765, para a raiz do projeto
